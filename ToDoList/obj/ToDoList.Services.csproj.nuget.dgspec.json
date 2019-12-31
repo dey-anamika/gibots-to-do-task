@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anamika.d\\source\\repos\\ToDoList\\ToDoList\\ToDoList.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anamika.d\\source\\repos\\ToDoList\\ToDoList\\ToDoList.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anamika.d\\source\\repos\\ToDoList\\ToDoList\\ToDoList.Services.csproj",
+        "projectName": "ToDoList.Services",
+        "projectPath": "C:\\Users\\anamika.d\\source\\repos\\ToDoList\\ToDoList\\ToDoList.Services.csproj",
+        "packagesPath": "C:\\Users\\anamika.d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anamika.d\\source\\repos\\ToDoList\\ToDoList\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anamika.d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://kekaapp.pkgs.visualstudio.com/_packaging/Keka/nuget/v3/index.json": {},
+          "https://kekaapp.pkgs.visualstudio.com/_packaging/KekaOld/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

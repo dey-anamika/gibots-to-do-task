@@ -1,0 +1,8 @@
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.Services.deps.json
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.Services.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.0\ToDoList.Services.pdb
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.Services.csprojAssemblyReference.cache
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.Services.AssemblyInfoInputs.cache
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.Services.AssemblyInfo.cs
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.Services.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.0\ToDoList.Services.pdb

@@ -1,0 +1,11 @@
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.1\ToDoList.Services.deps.json
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.1\ToDoList.Services.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.1\ToDoList.Services.pdb
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.1\ToDoList.Services.csprojAssemblyReference.cache
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.1\ToDoList.Services.AssemblyInfoInputs.cache
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.1\ToDoList.Services.AssemblyInfo.cs
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.1\ToDoList.Services.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.1\ToDoList.Services.pdb
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.1\ToDoLists.DB.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\bin\Debug\netstandard2.1\ToDoLists.DB.pdb
+C:\Users\anamika.d\source\repos\ToDoList\ToDoList\obj\Debug\netstandard2.1\ToDoList.Services.csproj.CopyComplete

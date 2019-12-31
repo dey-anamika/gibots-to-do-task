@@ -1,0 +1,81 @@
+30-12-2019 06:43:03 PM	This log contains information about the import schema operation into project 'ToDoLists.DB' on computer 'ANAMIKA-DEY' by user 'Anamika.d'.
+30-12-2019 06:43:03 PM	Import of database schema has started.
+30-12-2019 06:43:07 PM	Gathering database credentials
+30-12-2019 06:43:07 PM	Gathering database options
+30-12-2019 06:43:07 PM	Gathering users
+30-12-2019 06:43:07 PM	Gathering roles
+30-12-2019 06:43:07 PM	Gathering application roles
+30-12-2019 06:43:07 PM	Gathering role memberships
+30-12-2019 06:43:07 PM	Gathering filegroups
+30-12-2019 06:43:07 PM	Gathering full-text catalogs
+30-12-2019 06:43:07 PM	Gathering assemblies
+30-12-2019 06:43:07 PM	Gathering certificates
+30-12-2019 06:43:07 PM	Gathering asymmetric keys
+30-12-2019 06:43:07 PM	Gathering symmetric keys
+30-12-2019 06:43:07 PM	Gathering encrypted symmetric keys
+30-12-2019 06:43:07 PM	Gathering schemas
+30-12-2019 06:43:07 PM	Gathering XML schema collections
+30-12-2019 06:43:07 PM	Gathering user-defined data types
+30-12-2019 06:43:07 PM	Gathering user-defined types
+30-12-2019 06:43:07 PM	Gathering table types
+30-12-2019 06:43:07 PM	Gathering unique keys for table types
+30-12-2019 06:43:07 PM	Gathering primary keys for table types
+30-12-2019 06:43:07 PM	Gathering indexes for table types
+30-12-2019 06:43:07 PM	Gathering check constraints for table types
+30-12-2019 06:43:07 PM	Gathering default constraints for table types
+30-12-2019 06:43:07 PM	Gathering partition functions
+30-12-2019 06:43:07 PM	Gathering partition schemes
+30-12-2019 06:43:07 PM	Gathering functions
+30-12-2019 06:43:07 PM	Gathering encrypted functions
+30-12-2019 06:43:07 PM	Gathering aggregates
+30-12-2019 06:43:07 PM	Gathering procedures
+30-12-2019 06:43:07 PM	Gathering encrypted procedures
+30-12-2019 06:43:07 PM	Gathering tables
+30-12-2019 06:43:07 PM	Gathering primary keys
+30-12-2019 06:43:07 PM	Gathering unique constraints
+30-12-2019 06:43:07 PM	Gathering foreign keys
+30-12-2019 06:43:07 PM	Gathering default constraints
+30-12-2019 06:43:07 PM	Gathering check constraints
+30-12-2019 06:43:07 PM	Gathering views
+30-12-2019 06:43:07 PM	Gathering encrypted views
+30-12-2019 06:43:07 PM	Gathering indexes
+30-12-2019 06:43:07 PM	Gathering statistics
+30-12-2019 06:43:07 PM	Gathering full-text index stoplists
+30-12-2019 06:43:07 PM	Gathering search property lists
+30-12-2019 06:43:07 PM	Gathering search properties
+30-12-2019 06:43:07 PM	Gathering full-text indexes
+30-12-2019 06:43:07 PM	Gathering column store indexes
+30-12-2019 06:43:07 PM	Gathering spatial indexes
+30-12-2019 06:43:07 PM	Gathering XML indexes
+30-12-2019 06:43:07 PM	Gathering Selective XML indexes
+30-12-2019 06:43:07 PM	Gathering encrypted triggers
+30-12-2019 06:43:07 PM	Gathering triggers
+30-12-2019 06:43:07 PM	Gathering encrypted and clr ddl triggers
+30-12-2019 06:43:07 PM	Gathering ddl triggers
+30-12-2019 06:43:07 PM	Gathering synonyms
+30-12-2019 06:43:07 PM	Gathering defaults
+30-12-2019 06:43:07 PM	Gathering data constraint uddt bindings
+30-12-2019 06:43:07 PM	Gathering rules
+30-12-2019 06:43:07 PM	Gathering data constraint uddt bindings
+30-12-2019 06:43:07 PM	Gathering message types
+30-12-2019 06:43:07 PM	Gathering queues
+30-12-2019 06:43:07 PM	Gathering contracts
+30-12-2019 06:43:07 PM	Gathering services
+30-12-2019 06:43:07 PM	Gathering event notifications
+30-12-2019 06:43:07 PM	Gathering remote service bindings
+30-12-2019 06:43:07 PM	Gathering broker priorities
+30-12-2019 06:43:07 PM	Gathering signatures
+30-12-2019 06:43:07 PM	Gathering data compression options
+30-12-2019 06:43:07 PM	Gathering sequence types
+30-12-2019 06:43:07 PM	Gathering security policies
+30-12-2019 06:43:07 PM	Gather column encryption keys
+30-12-2019 06:43:07 PM	Gathering column master keys
+30-12-2019 06:43:07 PM	Gathering external data sources
+30-12-2019 06:43:07 PM	Gathering external file formats
+30-12-2019 06:43:07 PM	Gathering external tables
+30-12-2019 06:43:07 PM	Gathering extended properties
+30-12-2019 06:43:08 PM	Scanning project for duplicate elements
+30-12-2019 06:43:09 PM	Finished duplicate element processing
+30-12-2019 06:43:09 PM	Finished importing database.
+30-12-2019 06:43:09 PM	A summary of the import was saved to the following location: C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\Import Schema Logs\ToDoLists.DB_20191230011303.log
+30-12-2019 06:43:09 PM	Click Finish to continue...

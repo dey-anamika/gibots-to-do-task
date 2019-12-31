@@ -1,0 +1,6 @@
+C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\bin\Debug\ToDoLists.DB.dacpac
+C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\bin\Debug\ToDoLists.DB.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\bin\Debug\ToDoLists.DB.pdb
+C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\obj\Debug\ToDoLists.DB.sqlprojAssemblyReference.cache
+C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\obj\Debug\ToDoLists.DB.dll
+C:\Users\anamika.d\source\repos\ToDoList\ToDoLists.DB\obj\Debug\ToDoLists.DB.pdb
